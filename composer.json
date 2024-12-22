@@ -1,0 +1,12 @@
+{
+    "name": "dylanjennings/csv-to-upset",
+    "require": {
+        "symfony/error-handler": "^7.2"
+    },
+    "authors": [
+        {
+            "name": "Dylan Jennings",
+            "email": "dylan.jennings077@gmail.com"
+        }
+    ]
+}
